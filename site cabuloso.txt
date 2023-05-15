@@ -1,0 +1,23 @@
+</head>
+	<header>
+
+    <img src="https://i.pinimg.com/564x/de/11/2b/de112b9b0de6cad19068f91f27e25541.jpg" alt="some text" width=300 height=200> 
+</header> 
+<body>
+    <main>
+        <background img="#363636"> 
+    <img src="https://i.pinimg.com/564x/de/11/2b/de112b9b0de6cad19068f91f27e25541.jpg" alt="muie safad e peloda cen rupa" width=300 height=200>    
+<h1>texto grande do carai
+<l1> textin menor mas em grande quantidade
+</h1>
+</l1>
+</background>
+ <h1>imagens from 
+    <button>freepik</button>
+</h1>
+<img src="https://i.pinimg.com/564x/de/11/2b/de112b9b0de6cad19068f91f27e25541.jpg" alt="muie safad e peloda cen rupa" width=300 height=200>
+<img src="https://i.pinimg.com/564x/de/11/2b/de112b9b0de6cad19068f91f27e25541.jpg" alt="muie safad e peloda cen rupa" width=300 height=200>
+
+</main>
+</body>
+</html>
